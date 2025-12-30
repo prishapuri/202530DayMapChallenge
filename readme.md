@@ -294,6 +294,3 @@ This is for you.
 Use this template however you like. 
 
 Modify it. Fork it. Strip it down. Build on it.
-
-The important thing is not the code —
-it’s that your work doesn’t vanish.
