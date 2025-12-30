@@ -1,0 +1,32 @@
+[
+  {
+    "id": "example-map-2023",
+    "title": "Example interactive map",
+    "year": 2023,
+    "category": "mapping",
+    "tags": ["map", "geography", "demo"],
+    "image": "https://example.com/img/example-map.png",
+    "interactive": "https://example.com/interactive-map",
+    "alt": "An example interactive map showing regional data"
+  },
+  {
+    "id": "example-chart-2024",
+    "title": "Example data chart",
+    "year": 2024,
+    "category": "data visualization",
+    "tags": ["chart", "statistics"],
+    "image": "https://example.com/img/example-chart.png",
+    "interactive": "https://example.com/example-chart",
+    "alt": "A line chart illustrating changes over time"
+  },
+  {
+    "id": "example-static-graphic-2022",
+    "title": "Example static graphic",
+    "year": 2022,
+    "category": "design",
+    "tags": ["static", "illustration"],
+    "image": "https://example.com/img/example-static.png",
+    "interactive": "",
+    "alt": "A static illustrative graphic created as an example"
+  }
+]
