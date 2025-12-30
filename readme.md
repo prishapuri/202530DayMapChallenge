@@ -1,9 +1,6 @@
 ![Graphic Wall example](img/header.png)
 
-# SStirling Graphic Wall
-
-*A lightweight, vanilla-JS template for archiving and displaying visual work*
-
+# A Template for a Tiled Graphic Wall
 ---
 
 ## Why this exists
@@ -36,8 +33,7 @@ Just HTML, CSS, JavaScript, and a JSON file you can maintain for years.
 
 ## Before you code: building your archive (the hardest part)
 
-The code is easy.
-The archive is not.
+The code is pretty simple. Building your archive is some work! 
 
 ### 1. Save your work regularly
 
@@ -51,8 +47,6 @@ You should:
 * Capture **direct URLs** to the visualization itself (not just stories embedding it)
 
 That screenshot — ideally with your name or branding visible — may someday be the *only proof* the work existed or that you made it.
-
-This is not pessimism. It’s experience.
 
 ---
 
