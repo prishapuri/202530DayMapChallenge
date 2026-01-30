@@ -25,10 +25,10 @@ If you are interested in using or adapting parts of this project, please:
 
 ## Map Gallery
 
-👉 **View all ten maps from the 2025 #30DayMapChallenge here:** [Map Gallery](https://your-gallery-link-here)
+👉 **View all ten maps from the 2025 #30DayMapChallenge here:** [Map Gallery](https://prishapuri.github.io/202530DayMapChallenge/)
 
 ---
 
 ## Learn More
 
-👉 **To learn more about the #30DayMapChallenge 2025, visit the official page here:** [#30DayMapChallenge](https://30daymapchallenge.com/)
+👉 **To learn more about the #30DayMapChallenge, visit the official page here:** [#30DayMapChallenge](https://30daymapchallenge.com/)
